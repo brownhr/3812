@@ -1,3 +1,8 @@
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/brownhr/3812/workflows/R-CMD-check/badge.svg)](https://github.com/brownhr/3812/actions)
+<!-- badges: end -->
+
+
 Welcome! 
 
 This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
